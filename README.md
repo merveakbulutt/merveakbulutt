@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there ,I'm Merve👋
 
-<!--
-**merveakbulutt/merveakbulutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### . Contact with me via these platforms 
 
-Here are some ideas to get you started:
+ 
+ 
+ 
+ [<img height="32" width="32" align="left"  src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][Linkedin]           [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
+ 
+ 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=merveakbulutt.merveakbulutt)
+  
+ [Linkedin]:https://www.linkedin.com/in/merve-akbulut-73ab5020a/
+ [gmail]:mailto:akbulut.merve75@gmail.com
+ 
+ 
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merveakbulutt&theme=tokyonight)](https://github.com/merveakbulutt/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merveakbulutt&layout=compact&theme=tokyonight)](https://github.com/merveakbulutt/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
