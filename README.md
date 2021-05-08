@@ -4,11 +4,9 @@
 
  
  
+ [<img height="32" width="32" align="left"  src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][Linkedin]  [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
  
- [<img height="32" width="32" align="left"  src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][Linkedin]           [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
- 
- 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=merveakbulutt.merveakbulutt)
+
   
  [Linkedin]:https://www.linkedin.com/in/merve-akbulut-73ab5020a/
  [gmail]:mailto:akbulut.merve75@gmail.com
