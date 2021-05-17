@@ -1,4 +1,4 @@
-## Hi there ,I'm Merve👋
+## Hi there , I'm Merve👋
 
 #### . Contact with me via these platforms 
 
